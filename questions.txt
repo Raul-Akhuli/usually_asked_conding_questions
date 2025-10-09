@@ -1,0 +1,85 @@
+swap two variable ---> with third
+		  ---> without third
+
+
+check even or odd not use arithmetic operator like %
+	use binary operator like & if(n & 1 == 1) odd.
+
+check leap year or not.
+
+
+number --> prime, palindrome, Armstrong, strong, perfect
+	   Hanshad, Fibonacci, factorial, reverse number
+	   sum of digit.
+
+pattern --> *               *			*
+	    * *           * * *		      * * *
+	    * * *	* * * * *           * * * * *
+					      * * *	
+						*
+
+
+array --> search --> linear search (O(n))
+		 --> binary search (O(long n))
+      --> sorting --> bubble, marge, selection, insertion, quick.
+      
+	find max/min element in array
+	reverse an array
+	palindrome
+	rotate array --> left
+		     --> right   both by the reverse method(O(n))
+	frequency of each element in array
+	find duplicate element in array
+	remove duplicate element in array
+	find unique element in array
+	marge to sorted array(marge sort)
+	majority element (O(n)) by moon voting algo
+	sort color(O(n))
+	by sell and stock leetcode part 1
+	moves zeros to end
+	product of array except self leetcode (O(n)) without division operator.
+	search in sorted rotated array
+
+subarray --> maximum sum of subarray
+
+string --> reverse a string(O(n))
+	   (eg: "I am coder" --> "I ma redoc"
+			     --> "coder am I ")
+	   palindrome (O(n))
+	   anagram
+	   pangram
+	   isomorphic string
+	   find first unique char in a string
+	   count frequency of each character in string
+	   check rotation (check if one string is a rotated version of another string)
+	   longest common prefix
+	   string int integer not in build (implement atoi)
+	   integer to binary
+	   
+recurssion --> fibonacci series Fn = F(n-1) + F(n-2)
+
+
+linkedlist --> reverse linked list
+	       middle of linked list
+	       detection loop in linkded list(flod warshal)
+	       remove duplicate form sorted/unsorted linked list
+	       
+stack, queue
+
+tree --> inroder
+         preorder
+	 postorder
+	 
+
+bst -->implementation
+
+graph --> bsf
+	  dfs
+
+bitwise --> even odd
+	    hamming distance
+            count number of ones bit in a number
+	    check power of 2 or not
+	   
+	
+	
