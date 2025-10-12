@@ -1,3 +1,5 @@
+// 153 = 1^3 + 5^3 + 3^3 = 153
+
 import java.util.Scanner;
 
 public class ra_7_number_armstrong_or_not{
@@ -11,7 +13,7 @@ public class ra_7_number_armstrong_or_not{
 
         while(n != 0){
             int remainder = n % 10;
-            int qube = (int) Math.pow(remainder, 3);	// in java  '^' is not power operator it XOR oparater;
+            int qube = (int) Math.pow(remainder, 3);	// in java  '^' is not power operator it XOR operator;
             checkNumber += qube;
             n = n /10;
         }
