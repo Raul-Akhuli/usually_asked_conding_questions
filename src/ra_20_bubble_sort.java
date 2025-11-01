@@ -17,7 +17,7 @@ public class ra_20_bubble_sort{
             for(int i = 0; i < n-j-1; i++){
                 if(arr[i] > arr[i+1]){
                     arr[i] = arr[i] + arr[i+1];
-                    arr[i+1] = arr[i] - arr[i+1];     // this swaping techniqe is problemetic in case of large numbers
+                    arr[i+1] = arr[i] - arr[i+1];     // this swaping technique is problematic in case of large numbers
                     arr[i] = arr[i] - arr[i+1];       // for large numbers follow the conventional method mean with the help of extra variable.
                 }
             }
