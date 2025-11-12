@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ra_19_binary_search{
+public class ra_19_array_binary_search {
     public static void main(String [] args){
         Scanner sc = new Scanner(System.in);
 

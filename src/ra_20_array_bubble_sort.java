@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ra_20_bubble_sort{
+public class ra_20_array_bubble_sort {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
 

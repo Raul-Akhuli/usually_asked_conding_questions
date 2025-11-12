@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ra_21_moves_zeros_to_end{
+public class ra_21_array_moves_zeros_to_end {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
 

@@ -3,7 +3,7 @@ import java.util.Scanner;
 import java.util.Map;
 import java.util.HashMap;
 
-public class ra_22_find_unique_element_in_array{
+public class ra_22_array_find_unique_element_in_array {
     public static void main(String [] args){
         Scanner sc = new Scanner(System.in);
 
