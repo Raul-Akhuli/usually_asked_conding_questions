@@ -1,3 +1,7 @@
+// eg: "I am coder" --> "coder am I"
+
+
+
 import java.util.Scanner;
 
 public class ra_27_string_reverse_a_string{
